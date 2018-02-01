@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461642613 source:/home/mayur/Desktop/IS code/Mayur_sorting_program/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

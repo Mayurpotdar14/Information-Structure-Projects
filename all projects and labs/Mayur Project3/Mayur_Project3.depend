@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462347962 source:/home/mayur/Desktop/IS code/Mayur_Project3/main.cpp
+	<iostream>
+	<algorithm>
+	<stdlib.h>
+	<wait.h>
+

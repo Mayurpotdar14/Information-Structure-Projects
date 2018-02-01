@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1462413315 source:/home/mayur/Desktop/IS code/Mayur_50155714_Hash_project/linkedlist.cpp
+	"linkedlist.h"
+
+1462413040 /home/mayur/Desktop/IS code/Mayur_50155714_Hash_project/linkedlist.h
+	<iostream>
+	<string>
+
+1462413325 source:/home/mayur/Desktop/IS code/Mayur_50155714_Hash_project/main.cpp
+	"hashtable.h"
+
+1462413335 /home/mayur/Desktop/IS code/Mayur_50155714_Hash_project/hashtable.h
+	"linkedlist.h"
+
+1462413343 source:/home/mayur/Desktop/IS code/Mayur_50155714_Hash_project/root_main.cpp
+	"hashtable.h"
+

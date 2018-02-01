@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461514574 source:/home/mayur/Desktop/IS code/circular_queue_linked_list/main.cpp
+	<iostream>
+	<queue>
+
